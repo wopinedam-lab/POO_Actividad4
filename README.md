@@ -7,7 +7,7 @@ Estudiante: Wolfgang Alejandro Pineda Misas
 
 Docente: Walter Hugo Arboleda Mazo
 
-Ejercicios
+## Ejercicios
 - [Ejercicio 1 ](./punto_1.py)
 - [Ejercicio 2 ](./punto_2.py)
 - [Ejercicio 3 ](./punto_3.py)
